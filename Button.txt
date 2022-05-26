@@ -1,0 +1,6 @@
+    <ma-get-point-value point="point8" point-xid=" "></ma-get-point-value>
+    <ma-switch-img id="67494de7-48c1-458c-ad0c-7d9e3b22a081" style="position: absolute; left: 1498px; top: 820px; width: 80px; height: 80px;" 
+	src-false="/rest/v2/file-stores/default/Start.png" src-true="/rest/v2/file-stores/default/Start-depressed.png" 
+	ma-momentary="" ma-momentary-start="point9.setValue(false); point8.setValue(true)" ma-momentary-end="point8.setValue(false)" 
+	point-xid=" ">
+    </ma-switch-img>
